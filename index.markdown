@@ -33,3 +33,11 @@ Event.
 `KAPPAOUU465WEJZETUOAAOYR52UHNXNGGKHDBD4HKPDFNQOZFNUGBTZF74`
 
 This is the wallet which mints new item collections.
+
+# Important Links
+- [Kani World Website](https://kani.world)
+- [Kani Family Tree](https://kani.family)
+- [nftexplorer](https://www.nftexplorer.app/collection/kani-world)
+- [ALGOxNFT](https://algoxnft.com/collection/kani-world)
+- [Rand Gallery](https://www.randgallery.com/collection/kani-world/)
+- [AlgoSeas](https://algoseas.io/marketplace/collection/Kani%20World?view=listings&sort=price-asc&filters=%7B%7D)
