@@ -25,6 +25,7 @@ description: >-
   you need to become a Kani World Champion.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://docs.kani.family" # the base hostname & protocol for your site, e.g. http://example.com
+favicon_ico: "/assets/images/favicon.ico"
 twitter_username: kaniworldalgo
 github_username:  Kani-kun
 
@@ -55,3 +56,17 @@ theme: just-the-docs
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+callouts:
+  pro-tip:
+    title: Pro Tip
+    color: green
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning!
+    color: yellow
+  danger:
+    title: Danger!
+    color: red
