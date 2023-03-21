@@ -20,11 +20,11 @@
 
 title: Kani World Docs
 # email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Welcome to the Kani World documentation site. Here you will find everything
   you need to become a Kani World Champion.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://docs.kani.family" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kaniworldalgo
 github_username:  Kani-kun
 

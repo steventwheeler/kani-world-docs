@@ -35,6 +35,7 @@ Event.
 This is the wallet which mints new item collections.
 
 # Important Links
+- [Discord](https://discord.gg/Npybs2RTwV)
 - [Kani World Website](https://kani.world)
 - [Kani Family Tree](https://kani.family)
 - [nftexplorer](https://www.nftexplorer.app/collection/kani-world)
