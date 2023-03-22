@@ -5,6 +5,8 @@ parent: Gameplay
 grand_parent: Documentation
 ---
 # Player vs. Player (PvP)
+
+## PvP Challenge
 You can use the [`?pvp`](/docs/commands/#pvp) command to challenge another
 player's rumbler kani. Like the [`?scavenge`](/docs/commands/#scavenge) and
 [`?pve`](/docs/commands/#pve) commands from the previous steps, this command is
@@ -19,6 +21,13 @@ that you have a reasonable chance of beating. You can use the
 [`?whobuff`](/docs/commands/#whobuff) and [`?lb`](/docs/commands/#lb) commands
 to see which players have a similar or weaker rumbler and are sitting on a nice
 big pile of scum.
+
+## Random PvP
+Every 90 minutes two random explorers are selected to battle each other. The
+victor will have blocks added to their explore time at the expense of the
+opponent. Occasionally a long lost Kani will be found when this happens the
+gained block count can be very large so if your explorer won the battle be sure
+to recall them soon.
 
 ## Battle Points
 Battle points are a way to track who is the most successful player in PvP
