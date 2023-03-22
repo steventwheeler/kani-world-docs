@@ -19,14 +19,14 @@ Queen Kani and produce baby Kani. Winners have a chance to win one of the baby
 Kani, potentially adding a new crab to their cast.
 
 ## How does a player become King Kani?
-To win the KGE, Kani need to be battle-ready. They need to survive multiple
-rounds of combat to become King Kani, and as more players join the game, the
-competition will only get more challenging. The current plan is for 2
-Queens/2 winners each week except on the full moon of the month, in which case
-all four queens are available. Making it through to King Kani isn't, so the
-Kani will need all the help they can get.
-
-FIXME: the answer here seems outdated.
+To win the KGE, a Kani needs to be battle-ready. All active players
+automatically qualify for the KGE with all of their Kani thrown onto the
+battlefield. A player’s Kani must survive multiple rounds of battles to be one
+of the remaining unbeaten Kani at the end of the event. The number of rounds
+depends on the number of entries with the possibility of a bye in the first
+round. At the end of the tournament, the final four Kani will each become King
+Kani and be paired with one of the queens. Anything can happen on the way to
+the final four so make sure your rumbler is ready!
 
 ## What is scum?
 [Scum](/glossary/#scum) is the primary resource Kani collect to improve their
