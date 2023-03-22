@@ -10,10 +10,10 @@ players must attack to defeat it before it does too much damage to Kani World.
 Players will be notified when a raid starts. 
 
 ## Attacking
-Attacks on the bosses are on a 2hr cooldown. The amount of damage a player does
-is based on the stat of their special ability
-(more on specials in buffs-and-builds). Each attack has a 25% chance of being a
-special move attack dealing extra damage. 
+Attacks on the bosses are on a 2hr cooldown. Launching the attack will cost you
+10 scum. The amount of damage a player does is based on the stat of their
+[special move](/glossary/#special-move). Each attack has a 25% chance of being
+a special move attack dealing extra damage. 
 
 ## Rewards
 The raid bosses have scum, Kani coin, and blockchain fragments for rewards. The

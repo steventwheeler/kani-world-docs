@@ -12,10 +12,11 @@ defeat it before too much damage is done. Players will be notified when a raid
 starts. Once a raid has started players can use the
 [`?raid`](/docs/commands/#pve) command to attack the boss. There is a two hour
 cooldown on this command after which players can attack again if the boss still
-has not been defeated.
+has not been defeated. Each raid attack will cost you 10 scum so make sure you
+keep enough in your account for upcoming raids.
 
 For more information on how raids work and the strengths and weaknesses of the
-raid bosses check out the [raid gameplay guide](/docs/gameplay/raids.md).
+raid bosses check out the [raid gameplay guide](/docs/gameplay/raids).
 
 Now you are ready to become a Kani king. Check out the
 [gameplay guides](/docs/gameplay) for more detailed information on the various

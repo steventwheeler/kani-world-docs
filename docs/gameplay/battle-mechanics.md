@@ -20,22 +20,19 @@ one. Defense is similarly taken from wrestle. Hit points come from stamina, for
 every 1 stamina a Kani has 3 hit points. Finally, special charge and fatigue
 are both set to 0 initially. 
 
-The battle consists of rounds with each Kani taking turns to hit until 1 no
-longer has hp left. For every hit the opponent has a chance to block. The value
-of the hit is derived from a roll (usually d6) and the Kani’s attack value. The
-defender's block is calculated by a roll (usually d6) and their defense value.
-If the hit is greater than the block, the difference is taken from the hp. Each
-hit and block incurs attack and defense fatigue if the value of the
-attack/defense is greater than the Kani’s stamina - the theory being they don’t
-have the stamina to consistently hit/block at such a level. This fatigue
-reduces the value of attack or defense over a number of rounds by a percentage
-of the difference between attack and stamina or defense and stamina. 
+The battle consists of rounds with each Kani taking turns to hit until one of
+them no longer has hp left. For every hit the opponent has a chance to block.
+The value of the hit is derived from a roll (usually d6) and the Kani’s attack
+value. The defender's block is calculated by a roll (usually d6) and their
+defense value. If the hit is greater than the block, the difference is taken
+from the defender's hp. Each hit and block incurs attack and defense fatigue if
+the value of the attack/defense is greater than the Kani’s stamina - the theory
+being they don’t have the stamina to consistently hit/block at such a level.
+This fatigue reduces the value of attack or defense over a number of rounds by
+a percentage of the difference between attack and stamina or defense and
+stamina. 
 
-Defense fatigues if greater than 1, attack if greater than 5. The amount
-reduced is a percentage of the difference. The greater the difference the
-greater the reduction, the lower the difference the lower the reduction. (I use
-the terms defense and attack because these values can change, wrestle and power
-do not change throughout the battle). The fatigue formula is: 
+The fatigue formula is: 
 
 ```
 fatigue = (def - stam) * ((def - stam)/100).

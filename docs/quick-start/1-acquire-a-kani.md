@@ -19,7 +19,7 @@ nav_order: 1
    - You can try your luck in the
      [`#kani-shuffle`](/docs/channels/kani-shuffle) channel.
    - Or check out the secondary market on [nftexplorer.app](https://www.nftexplorer.app/sellers/kani-world).
-   - Or try to pick up a Kani in the [`#kani-traders`](/docs/) channel.
+   - Or try to pick up a Kani in the [`#kani-traders`](/docs/channels/kani-traders) channel.
 4. Go to the [`#verify`](/docs/channels/verify) channel and run the
    [`?verify <wallet address>`](/docs/commands/#verify) command to register
    your wallet. The bot will delete your message, check you have a Kani, and

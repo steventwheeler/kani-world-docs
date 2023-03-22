@@ -26,6 +26,9 @@ the creature increases so does the base battle stats(power, wrestle, stamina),
 providing more rewards for the winner. In addition, the appeal of the attacking
 Kani also increases the amount of scum the player will get as a reward. 
 
+Launching an attack will cost you 10 scum, so make sure you choose an
+appropriate strength for your opponent.
+
 ### Reward Calculation Example
 A basic monster with stats `(P = 5, W = 10, S = 5)` is created and beaten by a
 Kani with `(P = ?, W = ?, S = ?, A = 10)`. The reward will be monster stat

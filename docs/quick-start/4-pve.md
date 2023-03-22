@@ -14,4 +14,9 @@ stats and the attackers [appeal](/glossary/#appeal) value. As your Kani gets
 stronger you can challenge higher difficulties by adding a number after the
 command (e.g. `?pve 3`). This increases the difficulty and the reward.
 
+It will cost you 10 scum to mount the attack, so make sure you don't make the
+difficulty to high as you may lose to the monster.
+
+See [Player vs. Environment](/docs/gameplay/pve) for more details.
+
 [Next: Challenge a Player](/docs/quick-start/5-pvp){: .btn .btn-blue }

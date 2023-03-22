@@ -43,7 +43,7 @@ be listed on the Kani World Marketplace for either scum or Kani Coin.
 See: [Kani Coin](/docs/kani-coin)
 
 # Special Move
-See: [Special Moves](/docs/gameplay/special-moves.md)
+See: [Special Moves](/docs/gameplay/special-moves)
 
 # Power
 The power stat is an attack stat used when calculating a Kani's attack.
