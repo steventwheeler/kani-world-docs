@@ -240,6 +240,27 @@ This command takes no arguments.
 ?bag
 ```
 
+## `?consume`
+Consume one of the collected consumable items from your bag.
+
+This command takes one required and one optional argument:
+
+| Argument  | Description                                                                                                                         |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Item Name | The name of the item to consume, either the full name in quotes or just the attribute name. For example: `"Power Algae"` or `power` |
+| Quantity  | The number of items to be consumed, each item will give you two buffs on the named attribute. Defaults to `1` if not provided.      |
+
+### Examples
+```
+?consume "Power Algae"
+```
+```
+?consume power
+```
+```
+?consume "Power Algae" 2
+```
+
 ## `?shop`
 List the price of buffs for your Kani. By default this command signs up your
 rumbler Kani.
